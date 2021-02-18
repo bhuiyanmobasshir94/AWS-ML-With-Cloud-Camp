@@ -6,3 +6,6 @@
 2. [Second Immersion Day for the Sagemaker](https://sagemaker-workshop.com/)
 3. [Github for sagemaker](https://github.com/sharlinak/sagemaker-immersion-day)
 4. [Predictive User Engagement use case](https://aws.amazon.com/solutions/implementations/predictive-user-engagement/)
+
+## Concepts to be covered
+1. `Numpy` - [1](https://github.com/pollmix/mastering-numpy)
