@@ -8,7 +8,7 @@
 4. [Predictive User Engagement use case](https://aws.amazon.com/solutions/implementations/predictive-user-engagement/)
 
 ## Concepts to be covered
-1. `Numpy` - [1](https://github.com/pollmix/mastering-numpy)
+1. [Numpy](https://github.com/pollmix/mastering-numpy)
 
 - [AWS Well-Architected Labs :: AWS Well-Architected Labs](https://www.wellarchitectedlabs.com/)
 - [AWS ML Lense white papers](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc)
