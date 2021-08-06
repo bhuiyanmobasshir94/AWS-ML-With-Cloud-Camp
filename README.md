@@ -15,3 +15,4 @@
 
 ## Youtube channels to learn about AWS
 1. [StephaneMaarek](https://www.youtube.com/c/StephaneMaarek/playlists)
+2. [AWS webinars](https://www.youtube.com/user/AWSwebinars)
