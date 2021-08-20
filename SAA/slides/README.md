@@ -8,3 +8,7 @@
 
 ### session 4:
 - [Storage workshop](https://storage-on-aws.workshop.aws/)
+
+### session 5:
+- [Management workshop](https://mng.workshop.aws/)
+- [Cloud watch workshop](https://workshops.aws/categories/Amazon%20CloudWatch)
