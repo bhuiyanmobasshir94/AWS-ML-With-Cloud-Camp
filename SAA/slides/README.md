@@ -12,3 +12,8 @@
 ### session 5:
 - [Management workshop](https://mng.workshop.aws/)
 - [Cloud watch workshop](https://workshops.aws/categories/Amazon%20CloudWatch)
+
+### session 6:
+- [Workshop 1](https://d2klfmlck6.execute-api.us-west-2.amazonaws.com/default/myAPILambda)
+- [Workshop 2](https://webapp.serverlessworkshops.io/setup/)
+- [Awesome AWS Workshops](https://awesome-aws-workshops.com/)
